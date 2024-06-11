@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven! Aspiring CyberSecurity Professional </h1>
+<h1>Hi, I'm Steven! Aspiring Cyber Security Professional </h1>
 <h2> Cybersecurity Projects </h2>
 
 <b>Azure / Cloud Honeynet Project </b>
