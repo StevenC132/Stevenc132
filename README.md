@@ -1,5 +1,5 @@
 <h1>Hi, I'm Steven! Aspiring Cyber Security Professional </h1>
-<h2> Cybersecurity Projects </h2>
+<h2> Cyber Security Projects </h2>
 
 <b>Azure / Cloud Honeynet Project </b>
 - [Created a Live Honeynet is Azure] (https://github.com/StevenC132/SOC-HoneyNet)
